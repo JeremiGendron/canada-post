@@ -1,0 +1,6 @@
+name: divine_lilium
+
+dependencies:
+  meta: any
+  test: any
+  xml: any
